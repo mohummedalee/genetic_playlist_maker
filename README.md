@@ -7,4 +7,4 @@ Code is available here just for pointers. Please don't expect it to be perfect.
 
 Directory Structure:
 Put your music (16 bit wav) files in a folder called 'music' next to the main.py file.
-The only dependency is Python Speech Features, which I've provided in the repository (features/).
+The only dependency is Python Speech Features, which I've provided in the repository (`features/`).
